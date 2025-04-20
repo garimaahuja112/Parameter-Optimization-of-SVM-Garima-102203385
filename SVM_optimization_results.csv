@@ -1,0 +1,11 @@
+Sample,Best Accuracy,Best Params
+S1,0.9319294809010774,"{""kernel"": ""rbf"", ""C_or_nu"": 0.9102981779915218, ""model_type"": ""SVC"", ""gamma"": ""scale"", ""degree"": 3}"
+S2,0.9343780607247796,"{""kernel"": ""poly"", ""C_or_nu"": 100.0, ""model_type"": ""SVC"", ""gamma"": ""scale"", ""degree"": 3}"
+S3,0.9370714985308521,"{""kernel"": ""rbf"", ""C_or_nu"": 32.374575428176435, ""model_type"": ""SVC"", ""gamma"": ""auto"", ""degree"": 4}"
+S4,0.9294809010773751,"{""kernel"": ""rbf"", ""C_or_nu"": 56.89866029018293, ""model_type"": ""SVC"", ""gamma"": ""scale"", ""degree"": 2}"
+S5,0.9316846229187071,"{""kernel"": ""rbf"", ""C_or_nu"": 2.329951810515372, ""model_type"": ""SVC"", ""gamma"": ""auto"", ""degree"": 4}"
+S6,0.942458374142997,"{""kernel"": ""rbf"", ""C_or_nu"": 3.3932217718953264, ""model_type"": ""SVC"", ""gamma"": ""scale"", ""degree"": 2}"
+S7,0.932664054848188,"{""kernel"": ""rbf"", ""C_or_nu"": 68.66488450042998, ""model_type"": ""SVC"", ""gamma"": ""scale"", ""degree"": 2}"
+S8,0.9338883447600391,"{""kernel"": ""rbf"", ""C_or_nu"": 2.811768697974228, ""model_type"": ""SVC"", ""gamma"": ""scale"", ""degree"": 3}"
+S9,0.9316846229187071,"{""kernel"": ""poly"", ""C_or_nu"": 26.826957952797247, ""model_type"": ""SVC"", ""gamma"": ""scale"", ""degree"": 2}"
+S10,0.9309500489715965,"{""kernel"": ""rbf"", ""C_or_nu"": 4.941713361323833, ""model_type"": ""SVC"", ""gamma"": ""auto"", ""degree"": 2}"
